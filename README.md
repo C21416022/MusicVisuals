@@ -353,5 +353,5 @@ Case 5:
 
 # Youtube Video:
 
-[![YouTube](https://i9.ytimg.com/vi_webp/gzYQpCLaQWw/mq3.webp?sqp=CLSsxKIG-oaymwEmCMACELQB8quKqQMa8AEB-AGcCYAC0AWKAgwIABABGH8gEygTMA8=&rs=AOn4CLA70hX_LmBvDhAvOtHJTjYF2IoaHQ)](https://www.youtube.com/watch?v=gzYQpCLaQWw)
+[![YouTube]{(https://i9.ytimg.com/vi_webp/gzYQpCLaQWw/mq3.webp?sqp=CLSsxKIG-oaymwEmCMACELQB8quKqQMa8AEB-AGcCYAC0AWKAgwIABABGH8gEygTMA8=&rs=AOn4CLA70hX_LmBvDhAvOtHJTjYF2IoaHQ)](https://www.youtube.com/watch?v=gzYQpCLaQWw)
 
