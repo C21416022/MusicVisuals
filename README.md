@@ -17,6 +17,7 @@ Press Space to start the Visual and press the numbers 1 to 5 to change visuals.
 # How it works
 The Main.java file is the main file that runs everything on the program. When you press F5 to run the code, main calls on rockstar.java. The file rockstar.java calls on all the visuals, and allows the user to flick through them using the keys 1-5. The way this works is that the other classes use inheritance to call on the super/parent class. To do this the word extends is used. 
 
+
 In the setup method, objects are created in rockstar.java.
 
 ```Java
