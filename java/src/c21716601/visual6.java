@@ -18,7 +18,7 @@ public class visual6 {
     // private float[] shootingStarY = new float[15];
     // private float[] shootingStarLength = new float[15];
     // private float[] shootingStarFade = new float[15];
-    // private float[] shootingStarAngle = new float[15]; 
+    // private float[] shootingStarAngle = new float[15];
     float[] starSizes = new float[30];
     float[] starOpacities = new float[30];
     float[] starFades = new float[30];
